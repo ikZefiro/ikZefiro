@@ -10,7 +10,8 @@
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Capture%20the%20invisible%2C%20define%20the%20patterns.&theme=tokyonight" />
+  <!-- 这里添加了 &author=ikZefiro 参数 -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Capture%20the%20invisible%2C%20define%20the%20patterns.&author=ikZefiro&theme=tokyonight" />
 </p>
 
 </div>
