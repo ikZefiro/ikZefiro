@@ -36,7 +36,8 @@
 | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) ![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white) |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv,cuda,python,linux,docker,git,vscode,pycharm&theme=dark" />
+  <!-- 修复后的图标行，完全匹配你的截图 -->
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,python,linux,docker,git,vscode,pycharm&theme=dark" />
 </p>
 
 ---
@@ -44,7 +45,6 @@
 ### 📊 Research Metrics
 
 <p align="center">
-  <!-- 使用你提供的 working link -->
   <img height="170px" src="https://github-readme-stats.shion.dev/api?username=ikZefiro&show_icons=true&theme=tokyonight&cache_seconds=600" />
   <span>&nbsp;&nbsp;</span>
   <img height="170px" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ikZefiro&theme=tokyonight&cache_seconds=600" />
@@ -59,7 +59,6 @@
 ### 🐍 Neural Flow
 
 <p align="center">
-  <!-- 注意：如果这里显示破图，说明你还没有配置 GitHub Action 生成 snake.svg -->
   <img src="https://raw.githubusercontent.com/ikZefiro/ikZefiro/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
