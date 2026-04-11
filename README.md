@@ -31,14 +31,29 @@
 
 ### 🛠 Technical Matrix
 
-| **AI & Vision** | **System & Dev** | **Workflow** |
-| :--- | :--- | :--- |
-| ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) ![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white) |
-
-<p align="center">
-  <!-- 修复后的图标行，完全匹配你的截图 -->
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv,python,linux,docker,git,vscode,pycharm&theme=dark" />
-</p>
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">🧠 AI & Vision</th>
+      <th align="center">⚙️ System & Dev</th>
+      <th align="center">🛠 Workflow</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" /><br>
+        <img src="https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://skillicons.dev/icons?i=python,linux,docker&theme=dark" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://skillicons.dev/icons?i=git,vscode,pycharm,obsidian&theme=dark" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
