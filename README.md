@@ -1,55 +1,42 @@
-# 👨‍🔬 Hi there, I'm ikZefiro
+# ⫸ Psithurism | ikZefiro
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=5E81AC&height=200&section=header&text=Psithurism%20|%20CV%20Researcher&fontSize=50&animation=fadeIn" />
-</p>
-
-## 🍃 About Me
-- 🎓 **Undergraduate** specializing in **Intelligent Science and Technology**.
-- 🔍 **Research Interests:** Computer Vision, Industrial Defect Detection, and Self-Supervised Learning.
-- 🌪️ **Aesthetics:** Wind-inspired, ethereal, and minimalist.
-- 🛠️ **Tools:** Managing my knowledge vault via **Obsidian** and **Typora**.
-
----
-
-## 🛠 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-%235E81AC.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-%2381A1C1.svg?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA-CUDA-%234C566A.svg?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-%232E3440.svg?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-%235E81AC.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Capture%20the%20invisible%2C%20define%20the%20patterns.&theme=nord" />
 </p>
 
 ---
 
-## 📊 Git Insights (The "Nord" Theme)
+### ◦ 🔭 Research 
+**Computer Vision Undergraduate** focusing on the boundary between raw pixels and intelligent insights.
+- **Current Focus:** Industrial Defect Detection & Self-Supervised Learning.
+- **Methodology:** Exploring Bayes-PFL for personalized visual tasks.
+- **Workflow:** Architecting in *Obsidian*, documenting via *Typora*.
+
+---
+
+### ◦ 🛠 Core Stack
+`Python` · `PyTorch` · `OpenCV` · `CUDA` · `Linux` · `Docker`
+
+---
+
+### ◦ 📈 System Metrics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_NAME&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_NAME&layout=compact&theme=nord" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ikZefiro&show_icons=true&theme=nord&hide_border=true&bg_color=00000000&title_color=88C0D0&icon_color=81A1C1" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikZefiro&layout=compact&theme=nord&hide_border=true&bg_color=00000000&title_color=88C0D0" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_NAME&theme=nord&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikZefiro&theme=nord&hide_border=true&background=00000000&stroke=88C0D0&ring=88C0D0&fire=88C0D0" />
 </p>
 
 ---
 
-## 🏗 Projects & Research
-| Project | Description | Status |
-| :--- | :--- | :--- |
-| **Defect Detection** | Industrial inspection research with self-supervised learning. | 🧪 In Progress |
-| **PFL-CV** | Personalized Federated Learning for visual tasks. | 🚀 Active |
-| **Chaoxing Scraper** | A browser automation tool for resource gathering. | ✅ Archived |
-
----
-
-## 🐍 Contribution Snake
+### ◦ 🐍 Neural Flow
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_NAME/YOUR_NAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ikZefiro/ikZefiro/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_NAME&label=Profile%20Views&color=5E81AC&style=flat-square" />
+<p align="center">
+  <ins>Visitors: ikZefiro.node_count += 1</ins>
 </p>
