@@ -10,7 +10,6 @@
 </p>
 
 <p align="center">
-  <!-- 这里添加了 &author=ikZefiro 参数 -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Capture%20the%20invisible%2C%20define%20the%20patterns.&author=ikZefiro&theme=tokyonight" />
 </p>
 
@@ -33,8 +32,9 @@
 
 ### 🛠 Technical Matrix
 
+<!-- 这里将 :--- 修改为了 :---: 以实现单元格内内容居中 -->
 | **AI & Vision** | **System & Dev** | **Workflow** |
-| :--- | :--- | :--- |
+| :---: | :---: | :---: |
 | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) ![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white) |
 
 <p align="center">
